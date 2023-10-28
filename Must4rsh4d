@@ -31,7 +31,6 @@ def acak(b):
         d += '!'+w[random.randint(0,len(w)-1)]+i
     return cetak(d)
 
-
 def cetak(b):
     w = 'ahtdzjc'
     for i in w:
